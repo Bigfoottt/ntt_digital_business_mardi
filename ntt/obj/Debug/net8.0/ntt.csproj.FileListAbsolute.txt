@@ -1,0 +1,15 @@
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\bin\Debug\net8.0\ntt.exe
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\bin\Debug\net8.0\ntt.deps.json
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\bin\Debug\net8.0\ntt.runtimeconfig.json
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\bin\Debug\net8.0\ntt.dll
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\bin\Debug\net8.0\ntt.pdb
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.AssemblyInfoInputs.cache
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.AssemblyInfo.cs
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.csproj.CoreCompileInputs.cache
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.sourcelink.json
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.dll
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\refint\ntt.dll
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.pdb
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ntt.genruntimeconfig.cache
+C:\Users\My Msi\Documents\Mardi_Academy\Job_Test\ntt_digital_business_mardi\ntt\obj\Debug\net8.0\ref\ntt.dll
